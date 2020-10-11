@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1349px;
+    height: 4250px;
+    background: white;
+    margin: 0 auto;
+}
+.head{
+    width: 100%;
+    height: 750px;
+    background: white;
+    position: relative;
+}
+.nav{
+    width: 100%;
+    height: 75px;
+    background: white;
+}
+.banner{
+    width: 1200px;
+    height: 675px;
+    background: url("../img/02.jpg");
+    position: relative;
+    margin: 0 auto;
+}
+.nav>ul{
+    width: 1200px;
+    height: 75px;
+    background: white;
+    float: left;
+}
+.nav>ul>li{
+    width: 150px;
+    height: 75px;
+    float: left;
+    color: black;
+    list-style: none;
+    text-align: center;
+    line-height: 70px;
+    font-size: 14px;
+}
+.nav>ul>li>a {
+    color: black;
+    text-decoration: none;
+}
+.nav01{
+    width: 75px;
+    height: 75px;
+    background: #04064a;
+    float: left;
+    margin-left: 74px;
+}
+.nav01>p{
+    text-align: center;
+    line-height: 75px;
+    color: white;
+    cursor: pointer;
+}
+.cont{
+    width: 100%;
+    height: 3500px;
+    background: white;
+    margin-top: 25px;
+}
+.contSon1{
+    width: 650px;
+    height: 366px;
+    background: white;
+    position: relative;
+    float: left;
+}
+.contSon1>h1{
+    top: 60px;
+    left: 40px;
+    position: absolute;
+    color: black;
+}
+.p1{
+    top: 120px;
+    left: 40px;
+    position: absolute;
+    color: black;
+}
+.p2{
+    top: 230px;
+    left: 40px;
+    position: absolute;
+    color: black;
+}
+.contSon2{
+    width: 650px;
+    height: 366px;
+    position: relative;
+    background: url("../img/08.jpg");
+    float: left;
+    top: 0;
+    left: 49px;
+}
+.contSon3{
+    width: 800px;
+    height: 100px;
+    background: white;
+    position: relative;
+    float: left;
+    top: 50px;
+}
+.contSon3>h1{
+    top: 0px;
+    left: 40px;
+    position: absolute;
+    color: black;
+}
+.p3{
+    top: 50px;
+    left: 40px;
+    position: absolute;
+    color: black;
+}
+.contSon4{
+    width: 1349px;
+    height: 450px;
+    background: white;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+.div01,.div02,.div03{
+    width: 427px;
+    height: 450px;
+    background: yellow;
+    float: left;
+}
+.div01{
+    background: url("../img/23.jpg");
+}
+.div02{
+    margin-left: 15px;
+    background: url("../img/24.jpg");
+}
+.div03{
+    margin-left: 14px;
+    background: url("../img/35.jpg");
+}
+.contSon5{
+    width: 800px;
+    height: 150px;
+    background: white;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 100px;
+}
+.contSon5>h1{
+    top: 0px;
+    position: absolute;
+    color: black;
+}
+.p4{
+    top: 60px;
+    position: absolute;
+    color: black;
+}
+.contSon6{
+    float: left;
+    width: 1309px;
+    height: 600px;
+    background: url("../img/38.jpg");
+    margin: 100px 40px;
+}
+.contSon7{
+    float: left;
+    width: 600px;
+    height: 450px;
+    background: url("../img/80.jpg");
+    margin: 0px 40px;
+}
+.contSon8{
+    float: left;
+    width: 600px;
+    height: 450px;
+    background: url("../img/81.jpg");
+    margin: 0px 25px;
+}
+.contSon9{
+    width: 600px;
+    height: 120px;
+    float: left;
+    margin: 30px 40px;
+}
+.contSon10{
+    width: 600px;
+    height: 120px;
+    float: left;
+    margin: 30px 25px;
+}
+.contSon11{
+    width: 1000px;
+    height: 100px;
+    background: white;
+    float: left;
+    margin: 0 40px;
+}
+.contSon11>p{
+    margin: 10px 0;
+}
+.contSon12{
+    width: 1270px;
+    height: 600px;
+    background: yellow;
+    float: left;
+    margin: 0 40px;
+    overflow: hidden;
+}
+.div04{
+    width: 2540px;
+    height: 600px;
+    background: blue;
+    float: left;
+    margin: 0 0px;
+    animation: move01 10s linear infinite;
+}
+.img01,.img02{
+    float: left;
+}
+@keyframes move01 {
+    from{
+        margin-left: 0px;
+    }
+    to{
+        margin-left: -1270px;
+    }
+}
+.contSon13{
+    width: 300px;
+    height: 150px;
+    background: white;
+    float: left;
+    margin: 0 40px;
+}
+.contSon13>h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    line-height: 150px;
+}
+.contSon14>ul{
+    width: 1270px;
+    height: 150px;
+    background: white;
+    float: left;
+    margin: 0 40px;
+}
+.contSon14>ul>li{
+    width: 254px;
+    height: 150px;
+    float: left;
+    color: black;
+    list-style: none;
+    text-align: center;
+    line-height: 150px;
+    font-size: 14px;
+}
+.img03{
+    margin: 0 0;
+}

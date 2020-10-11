@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    width: 1349px;
+    height: 600px;
+    position: relative;
+    background: url("../img/p301.png");
+}
+
+.head01{
+    position: absolute;
+    top: 530px;
+    left: 50px;
+    font-size: 40px;
+    color: white;
+}
+.head02{
+    position: absolute;
+    top: 530px;
+    left: 480px;
+    width: 1px;
+    height: 70px ;
+    background:white;
+}
+.head03{
+    position: absolute;
+    top: 540px;
+    left: 500px;
+    font-size: 18px;
+    color: white;
+}
+.cont{
+    width: 1349px;
+}
+.cont01{
+    width: 1189px;
+    height: 100px;
+    margin-left: 80px;
+}
+.cont01>h1{
+    text-align: left;
+    line-height: 100px;
+}
+.cont01>p{
+    text-align: left;
+    line-height: 20px;
+}
+
+.cont02{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 1290px;
+    height: 860px;
+}
+.cont02>img{
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.cont03{
+    width: 1189px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.cont03>h1{
+    text-align: left;
+    line-height: 100px;
+}
+.cont03>p{
+    text-align: left;
+    line-height: 20px;
+}
+.cont04{
+    width: 1349px;
+    height: 899px;
+    margin-top: 50px;
+    background: url("../img/p308.jpg");
+}
+.cont05{
+    margin-top: 30px;
+    margin-left: 80px;
+    text-align: left;
+}
+.cont06{
+    margin-top: 50px;
+    width: 1349px;
+    height: 500px;
+}
+.cont0601{
+    width: 580px;
+    height: 500px;
+    margin-left: 80px;
+    float: left;
+    background: url("../img/p309.jpg");
+}
+.cont0602{
+    width: 580px;
+    height: 500px;
+    margin-left: 29px;
+    float: left;
+    background: url("../img/p310.jpg");
+}
+.cont0701{
+    margin-left: 80px;
+    margin-top: 10px;
+    float: left;
+}
+.cont0702{
+    margin-left: 709px;
+    margin-top: -20px;
+    float: left;
+}
+.cont08{
+    margin-top: 100px;
+    margin-left: 80px;
+    font-size: 40px;
+    text-align: left;
+}
+.cont09{
+    position: relative;
+    left: 50px;
+    width: 1290px;
+    height: 860px;
+}
+.cont09>img{
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}

@@ -1,0 +1,233 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    .bigbox{
+        width: 1349px;
+        height: 3500px;
+        margin: auto;
+    }
+    .head1{
+        width: 1349px;
+        height: 576px;
+        background: url("../img/ss.jpg");
+        margin: auto;
+    }
+    .head01{
+        width: 500px;
+        height: 300px;
+        margin-top: 350px;
+        margin-left: 200px;
+        color: white;
+        position: absolute;
+        font-size: 20px;
+    }
+    p{
+        margin-top: 20px;
+    }
+    .head2{
+        width: 1349px;
+        height: 150px;
+        margin-top: 20px;
+    }
+    .body1{
+        width: 1349px;
+        height: 500px;
+        position: relative;
+        margin-top: 20px;
+    }
+    .body101{
+        width: 500px;
+        height: 500px;
+        position: absolute;
+        background: url("../img/dd.jpg");
+    }
+    .body102{
+    width: 500px;
+    height: 338px;
+        position: absolute;
+    background: url("../img/20180511_MaseratiMontecarlo_9416.png");
+    margin-left: 505px;
+}
+    .body103{
+        width: 339px;
+        height: 500px;
+        background: url("../img/aa.png");
+        float: left;
+        position: absolute;
+        margin-left: 1010px;
+    }
+    .body104{
+    width: 339px;
+    height: 177px;
+    background: url("../img/gg.png");
+    float: left;
+    position: absolute;
+    margin-left: 550px;
+        margin-top:343px ;
+    }
+
+    .body2{
+        width: 1349px;
+        height: 379px;
+        position: relative;
+    }
+       .body201{
+           width: 674px;
+           height: 379px;
+           background: url("../img/ff.png");
+           margin-top: 100px;
+           position: absolute;
+       }
+    .body202{
+        width: 678px;
+        height: 379px;
+        float: left;
+        position: absolute;
+        left: 660px;
+        top: 130px;
+    }
+    h1{
+        margin-left: 100px;
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    p{
+    margin-left: 100px;
+    margin-top: 30px;
+        font-size: 17px;
+    }
+    .body3{
+        width: 1349px;
+        height: 400px;
+        position: relative;
+        background:whitesmoke;
+        top: 170px;
+    }
+    .body301{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+        top: 50px;
+        left: 70px;
+
+    }
+    .body302{
+        width: 500px;
+        height: 300px;
+        background: url("../img/uu.jpg");
+        margin-top: 0px;
+        position: absolute;
+        float: left;
+        left: 770px;
+        top: 50px;
+    }
+    .body4{
+        width: 1349px;
+        height: 400px;
+        position: relative;
+        top: 200px;
+    }
+    .body401{
+        width: 678px;
+        height: 400px;
+        position: absolute;
+        background: url("../img/yy.png");
+    }
+    .body402{
+        width: 678px;
+        height: 400px;
+        position: absolute;
+        float: left;
+        left: 628px;
+        top: 70px;
+    }
+    .body5{
+        width: 1349px;
+        height: 400px;
+        background:whitesmoke;
+        position: relative;
+        top: 230px;
+    }
+    .body501{
+        width: 620px;
+        height:300px;
+        position: absolute;
+        left:50px;
+        top: 50px;
+    }
+    .body502{
+        width: 500px;
+        height: 300px;
+        position: absolute;
+        top: 50px;
+        left: 770px;
+        background: url("../img/tt.jpg");
+    }
+    .body6{
+        width:200px;
+        height: 100px;
+       position: relative;
+        top: 230px;
+        text-align: center;
+    }
+    .body6>h1{
+        font-size: 50px;
+        margin-left: -30px;
+    }
+    .body7{
+        width: 1349px;
+        height: 251px;
+        position: relative;
+        top: 200px;
+    }
+    .body701{
+        width: 446px;
+        height: 251px;
+        position: absolute;
+        background: url("../img/qq.jpg");
+    }
+.body701:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.body701>p {
+    color: white;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+.body702{
+    width: 446px;
+    height: 251px;
+    float: left;
+    position: absolute;
+    left: 451px;
+    background: url("../img/ww.jpg");
+}
+.body702:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.body702>p{
+    color: white;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+.body703{
+    width: 446px;
+    height: 251px;
+    float: left;
+    position: absolute;
+    right: 0px;
+    background: url("../img/ee.jpg");
+}
+.body703:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.body703>p{
+    color: white;
+   margin-left: 20px;
+    margin-top: 160px;
+}

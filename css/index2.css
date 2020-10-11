@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    .bigbox{
+        width: 1349px;
+        height: 5000px;
+    }
+    .head{
+        width: 1349px;
+        height:600px;
+        background: url("../img/qwe.jpg");
+    }
+    .head>h1{
+        color: white;
+        margin-left: 50px;
+        margin-top: 100px;
+        position: absolute;
+    }
+    .body1{
+        width: 1349px;
+        height: 350px;
+        background: whitesmoke;
+        position: absolute;
+        top: 650px;
+    }
+    .body1>h1,p{
+          margin-left: 30px;
+          margin-top: 30px;
+      }
+    .body2{
+        width: 1349px;
+        height:550px;
+        margin-top: 40px;
+        position: relative;
+    }
+    .body201{
+        width: 674px;
+        height: 500px;
+        background:whitesmoke;
+        position: absolute;
+        top: 4px;
+    }
+    .body201>p{
+        margin-top:55px;
+    }
+    .body202{
+        width: 674px;
+        height: 500px;
+        float: left;
+        position: absolute;
+        left: 674px;
+        background: url("../img/rrr.jpg");
+    }
+    .body3{
+        width: 100px;
+        height: 50px;
+        margin-top: 920px;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .body4{
+        width: 1349px;
+        height: 1000px;
+        background:whitesmoke;
+        position: relative;
+        top: 30px;
+
+    }
+    .body401{
+        width: 600px;
+        height: 800px;
+        background: url("../img/ppp.jpg");
+        position: absolute;
+        top: 150px;
+    }
+    .body402{
+        width: 600px;
+        height: 900px;
+        background: whitesmoke;
+        position: absolute;
+        float: left;
+        left: 670px;
+        top: 50px;
+    }
+    .body402>h2,h3,p{
+        margin-left: 50px;
+        margin-top: 50px;
+    }

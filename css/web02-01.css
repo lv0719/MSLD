@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1349px;
+    height: 2000px;
+    background: white;
+    margin: 0 auto;
+}
+.head{
+    width: 100%;
+    height: 567px;
+    background: white;
+    position: relative;
+}
+.banner{
+    width: 1349px;
+    height: 567px;
+    background: url("../img/02.png");
+    position: relative;
+    margin: 0 auto;
+}
+.bannerSon1{
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 486px;
+    background: black;
+    opacity: 0.3;
+}
+.p1{
+    font-size: 48px;
+    color: white;
+    margin: 410px 40px;
+    position: absolute;
+    float: left;
+}
+.bannerSon2{
+    width: 1px;
+    height: 80px;
+    margin: 406px 350px;
+    background: white;
+    position: absolute;
+    float: left;
+}
+.p2{
+    font-size:17px;
+    color: white;
+    margin: 420px 380px;
+    position: absolute;
+    float: left;
+}
+.cont{
+    width: 100%;
+    height: 1100px;
+    background: white;
+    position: relative;
+}
+.contSon1{
+    width: 100%;
+    height: 140px;
+    background: white;
+    position: absolute;
+}
+.p3{
+    font-size:37px;
+    color: black;
+    margin: 20px 40px;
+    position: absolute;
+}
+.p4{
+    font-size:15px;
+    color: black;
+    margin: 80px 40px;
+    position: absolute;
+}
+.contSon2{
+    width: 420px;
+    height: 660px;
+    background: white;
+    margin: 140px 40px;
+    float: left;
+    position: absolute;
+}
+.contSon3{
+    width: 420px;
+    height: 660px;
+    background: white;
+    margin: 140px 467px;
+    float: left;
+    position: absolute;
+}
+.contSon4{
+    width: 420px;
+    height: 660px;
+    background: white;
+    margin: 140px 895px;
+    float: left;
+    position: absolute;
+}
+.div01{
+    width: 100%;
+    height: 400px;
+    background: url("../img/06.png");
+}
+.div02{
+    width: 100%;
+    height: 240px;
+    background: url("../img/03.jpg");
+    margin: 7px 0;
+}
+.div03{
+    width: 100%;
+    height: 240px;
+    background: url("../img/04.jpg");
+}
+.div04{
+    width: 100%;
+    height: 400px;
+    background: url("../img/05.jpg");
+    margin: 7px 0;
+}
+.div05{
+    width: 100%;
+    height: 400px;
+    background: url("../img/08.png");
+}
+.div06{
+    width: 100%;
+    height: 240px;
+    background: url("../img/07.jpg");
+    margin: 7px 0;
+}
+.contSon5{
+    width: 100%;
+    height: 140px;
+    top: 800px;
+    background: white;
+    position: absolute;
+}
+.p5{
+    font-size:37px;
+    color: black;
+    margin: 20px 40px;
+    position: absolute;
+}
+.p6{
+    font-size:15px;
+    color: black;
+    margin: 80px 40px;
+    position: absolute;
+}
+
+.contSon6{
+    width: 1349px;
+    height: 600px;
+    background: white;
+    float: left;
+    margin: 940px 0;
+    overflow: hidden;
+}
+.div07{
+    width: 2800px;
+    height: 600px;
+    background: white;
+    float: left;
+    margin: 0 0px;
+    animation: move01 10s linear infinite;
+
+}
+.img01,.img02{
+    float: left;
+}
+@keyframes move01 {
+    from{
+        margin-left: 0px;
+    }
+    to{
+        margin-left: -1349px;
+    }
+}
+.p7{
+    font-size:37px;
+    color: black;
+    margin: 1570px 40px;
+    position: absolute;
+}
+.contSon8 {
+    width: 1309px;
+    height: 400px;
+    background: white;
+    position: relative;
+    top: 1650px;
+    left: 40px;
+}
+.div08{
+    width: 318px;
+    height: 400px;
+    background: white;
+    float: left;
+    position: absolute;
+}
+.div09{
+    width: 318px;
+    height: 400px;
+    background: white;
+    float: left;
+    left: 330px;
+    position: absolute;
+}
+.div10{
+    width: 318px;
+    height: 400px;
+    background: white;
+    float: left;
+    left: 660px;
+    position: absolute;
+}
+.div11{
+    width: 318px;
+    height: 400px;
+    background: white;
+    float: left;
+    left: 990px;
+    position: absolute;
+}

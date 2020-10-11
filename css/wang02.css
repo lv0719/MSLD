@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1349px;
+    height: 1700px;
+    position: relative;
+}
+.son01{
+    width: 100%;
+    height: 150px;
+}
+.son01>h1{
+    text-align: center;
+    line-height: 150px;
+}
+.son02{
+    width: 100%;
+    height: 600px;
+}
+.sun01{
+    width: 1280px;
+    height: 500px;
+    background: url("../img/che01.jpg");
+    margin-left: 40px;
+}
+.son03{
+    width: 100%;
+    height: 50px;
+}
+p{
+    margin-left: 50px;
+}
+.son04{
+    width: 100%;
+    height: 70px;
+}
+.son04>p{
+    margin-left: 80px;
+}
+.son05{
+    width: 100%;
+    height: 130px;
+}
+.son06{
+    width: 100%;
+    height: 70px;
+}
+.son07{
+    width: 100%;
+    height: 60px;
+}
+.son07>h1{
+    font-size: 20px;
+    margin-left: 50px;
+ }
+.son08{
+    width: 100%;
+    height: 140px;
+}
+.son08>h1{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.son09{
+     width: 100%;
+     height: 150px;
+     position: relative;
+ }
+.son09>h1{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.sun02{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.sun02>p{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sun02:hover{
+    cursor: pointer;
+    background: skyblue;
+}
+.son10{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+.son10>h1{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.sun03{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.sun03>p{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sun03:hover{
+    cursor: pointer;
+    background: skyblue;
+}
+.son11{
+    width: 450px;
+    height: 40px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.son11:hover{
+    color: blue;
+    cursor: pointer;
+}

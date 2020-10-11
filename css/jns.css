@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1349px;
+    height: 2000px;
+
+    margin: 0 auto;
+}
+.div01{
+    width:100% ;
+    height: 100px;
+    background: black;
+}
+.div02{
+    width: 100%;
+    height: 899px;
+    background: url("../img/TP.1.png");
+    color: white;
+}
+.div02>h1{
+    width: 50%;
+    height: 899px;
+    text-align: center;
+    position: relative;
+    top: 800px;
+    font-size: 40px;
+}
+.div02>h3{
+    width: 50%;
+    position: absolute;
+    margin: 0 auto;
+    top: 910px;
+    font-size: 16px;
+    left: 55%;
+}
+.div03{
+    width: 100%;
+    height: 60px;
+
+    font-size: 40px;
+    float: left;
+    position: relative;
+}
+.div04{
+    width: 100%;
+    height: 45px;
+
+    float: left;
+}
+.div00{
+    width: 100%;
+    height: 800px;
+
+}
+.div05{
+    width: 430px;
+    height: 430px;
+    background: url("../img/TP.2.png");
+    float: left;
+    margin-top: 215px;
+    margin-left: 10px;
+}
+.div06{
+    width: 430px;
+    height: 287px;
+    background: url("../img/TP.1.1.png");
+    float: left;
+    margin-left: 20px;
+}
+.div07{
+    width: 430px;
+    height: 322px;
+    background: url("../img/TP.6.jpg");
+    float: left;
+    margin-left: 20px;
+}
+.div08{
+    width: 430px;
+    height: 322px;
+    background: url("../img/TP.4.jpg");
+    float: left;
+    margin-left: 20px;
+}
+.div09{
+    width: 430px;
+    height: 294px;
+    background: url("../img/TP.5.png");
+    float: left;
+    margin-left:20px;
+    margin-top: 25px;
+}
+h1{
+    font-size: 40px;
+}
+.div11{
+    width: 1349px;
+    height: 338px;
+
+    margin: 100px auto;
+    float: left;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.div{
+    width: 1802px;
+    height: 338px;
+    background: red;
+    animation: move01 5s linear infinite;
+
+}
+img{
+    float: left;
+}
+@keyframes move01 {
+    from{
+        margin-left: 0;
+    }
+    to{
+        margin-left: -400px;
+    }
+}
+

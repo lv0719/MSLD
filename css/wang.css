@@ -1,0 +1,405 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1349px;
+    height: 6000px;
+    background: white;
+}
+.son01{
+    width: 100%;
+    height: 700px;
+    background: url("../img/che1.jpg");
+    position: relative;
+}
+.sun01{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    bottom: 50px;
+    left: 70px;
+}
+h1{
+    color: white;
+    font-size: 70px;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+.son02{
+    width: 100%;
+    height: 100px;
+    border: 3px solid skyblue;
+}
+.son02>ul{
+    width: 800px;
+    height: 50px;
+    float: left;
+    margin-top: 30px;
+}
+.son02>ul>li{
+    width: 100px;
+    height: 50px;
+    color: black;
+    float: left;
+    text-align: center;
+    list-style: none;
+    line-height: 70px;
+}
+.son02:hover{
+    cursor: pointer;
+}
+.son03{
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+.sun02{
+    width: 700px;
+    height: 450px;
+    background: url("../img/che2.jpg");
+    margin-left: 50px;
+    margin-top: 50px;
+    position: absolute;
+}
+.sun03{
+    width: 500px;
+    height: 450px;
+    float: left;
+    position: absolute;
+    right: 50px;
+    top:50px;
+}
+h1{
+    color: black;
+}
+p{
+    color: black;
+    font-size: 25px;
+}
+.son04{
+    width: 100%;
+    height: 200px;
+}
+.son04>h1{
+    line-height: 150px;
+}
+.son05 {
+    width: 100%;
+    height: 560px;
+    position: relative;
+}
+.sun04{
+     width: 450px;
+     height: 481px;
+     background: url("../img/che3.jpg");
+}
+.sun05{
+    width: 400px;
+    height: 449px;
+    background: url("../img/che4.jpg");
+    float: left;
+    position: absolute;
+    left: 500px;
+    top: 0;
+}
+.sun06{
+    width: 400px;
+    height: 554px;
+    background: url("../img/che5.jpg");
+    float: left;
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+.son06{
+    width: 100%;
+    height: 870px;
+}
+.sun07{
+    width: 100%;
+    height: 150px;
+}
+.sun07>h1{
+    line-height: 100px;
+    color: black;
+    font-size: 40px;
+}
+.sun08{
+    width: 100%;
+    height: 720px;
+    background: url("../img/che6.jpg");
+}
+.sun08>p{
+    font-size: 30px;
+    color: white;
+    line-height: 150px;
+    margin-left: 100px;
+}
+.son07{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.sun09,.sun10,.sun11,.sun12{
+    width: 300px;
+    height: 400px;
+
+}
+.sun09{
+    background: url("../img/che7.jpg");
+    float: left;
+    position: absolute;
+    top:100px;
+    left: 40px;
+}
+.sun10{
+    background: url("../img/che8.jpg");
+    float: left;
+    position: absolute;
+    top:100px;
+    left: 360px;
+}
+.sun11{
+    background: url("../img/che9.jpg");
+    float: left;
+    position: absolute;
+    top:100px;
+    left: 680px;
+}
+.sun12{
+    background: url("../img/che10.jpg");
+    float: left;
+    position: absolute;
+    top:100px;
+    left: 1000px;
+}
+.sun09>h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 700px;
+}
+.sun10>h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 700px;
+}
+.sun11>h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 700px;
+}
+.sun12>h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 700px;
+}
+.son08{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+.sun13{
+     width: 100px;
+     height: 50px;
+     background: skyblue;
+    float: left;
+    position: absolute;
+    left: 45%;
+    top:100px;
+ }
+.sun14{
+    width: 100px;
+    height: 50px;
+    background: skyblue;
+    float: left;
+    position: absolute;
+    left: 55%;
+    top:100px;
+}
+.sun13>p,.sun14>p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 70px;
+}
+.sun13:hover,.sun14:hover{
+    background: yellow;
+    cursor: pointer;
+}
+.son09{
+    width: 100%;
+    height: 450px;
+    position: relative;
+}
+.sun15{
+    width: 700px;
+    height: 450px;
+    background: url("../img/che11.png");
+    position: absolute;
+    right: 0;
+    top: 50px;
+}
+.sun16{
+    width: 600px;
+    height: 450px;
+    position: relative;
+}
+.sun16>h1{
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+.sun16>p{
+    font-size: 20px;
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+.son10{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+.son10>h1{
+    font-size: 30px;
+    position: absolute;
+    left: 150px;
+    top: 100px;
+
+}
+.son11{
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+.sun17{
+    width: 700px;
+    height: 550px;
+    float: left;
+    background: url("../img/che12.jpg");
+}
+.sun18{
+    width: 550px;
+    height: 300px;
+    float: left;
+    position: absolute;
+    right: 60px;
+    top: 150px;
+}
+.sun18>h1{
+    font-size: 20px;
+    line-height: 50px;
+}
+.sun18>p{
+    font-size: 15px;
+}
+.son12{
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.sun19{
+    width: 100%;
+    height: 600px;
+    background: url("../img/che13.png");
+    position: absolute;
+    bottom: 0;
+}
+.sun19>p{
+    font-size: 30px;
+    color: white;
+    line-height: 150px;
+    position: absolute;
+    left: 100px;
+}
+.kan{
+    width: 150px;
+    height: 30px;
+    background: white;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.kan:hover{
+    cursor: pointer;
+    background: green;
+}
+.son13{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+.son13>h1{
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+.son13>p{
+    font-size: 16px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.son14{
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+.son14>h1{
+    font-size: 30px;
+}
+.sun20{
+    width: 100px;
+    height: 50px;
+    background: red;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 30%;
+}
+.sun20:hover{
+    background: blue;
+    cursor: pointer;
+}
+.sun21{
+    width: 420px;
+    height: 210px;
+    background: url("../img/che14.jpg");
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+.sun22,.sun23{
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+}
+.sun22{
+    position: absolute;
+    left: 500px;
+    bottom: 50px;
+}
+.sun23{
+    position: absolute;
+    right: 500px;
+    bottom: 50px;
+}
+.sun22>p,.sun23>p{
+    text-align: center;
+    line-height: 28px;
+}
+.sun22:hover,.sun23:hover{
+    background: skyblue;
+    cursor: pointer;
+}

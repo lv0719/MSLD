@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    width: 1349px;
+    height: 1080px;
+    margin-left: auto;
+    background: url("../img/head02.jpg");
+}
+.head>h1{
+     margin-left: 1100px;
+     line-height: 1000px;
+     color: white;
+    position: absolute;
+ }
+.head>h3{
+    margin-left: 1100px;
+    line-height: 1080px;
+    color: white;
+    position: absolute;
+}
+.cont01{
+    margin: 50px auto;
+    width: 1189px;
+    height: 180px;
+}
+.cont01>h1{
+    text-align: left;
+    position: absolute;
+}
+.cont01>p{
+    text-align: left;
+    position: absolute;
+    top: 1200px;
+}
+.cont02{
+    margin: 50px auto;
+    width: 1349px;
+    height: 2000px;
+}
+.cont0201{
+     width: 1349px;
+     height: 390px;
+     background: lightgrey;
+ }
+.cont0201zuo{
+    width: 550px;
+    height: 390px;
+    margin-left: 80px;
+    position: relative;
+    float: left;
+}
+.cont0201zuo>h1{
+    text-align: left;
+    line-height: 100px;
+    position: absolute;
+}
+.cont0201zuo>h3{
+    text-align: left;
+    line-height: 180px;
+    position: absolute;
+}
+.cont0201zuo>p{
+    text-align: left;
+    top: 120px;
+    position: absolute;
+}
+.cont0201you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    background: url("../img/cont1.1.jpg");
+    float: left;
+}
+.cont0202{
+    width: 1349px;
+    height: 390px;
+    background: white;
+}
+.cont0202zuo{
+     width: 550px;
+     height: 390px;
+     margin: 50px 80px;
+     background: url("../img/cont1.2.jpg");
+     float: left;
+ }
+.cont0202you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    position: relative;
+    float: left;
+}
+.cont0202you>h1{
+    text-align: left;
+    line-height: 200px;
+    position: absolute;
+}
+.cont0202you>h3{
+    text-align: left;
+    line-height: 280px;
+    position: absolute;
+}
+.cont0202you>p{
+    text-align: left;
+    top: 170px;
+    position: absolute;
+}
+.cont0203{
+    margin-top: 100px;
+    width: 1349px;
+    height: 390px;
+    background: lightgrey;
+}
+.cont0203zuo{
+    width: 550px;
+    height: 390px;
+    margin: 50px 80px;
+    position: relative;
+    float: left;
+}
+.cont0203zuo>h1{
+    text-align: left;
+    line-height: 100px;
+    position: absolute;
+}
+.cont0203zuo>h3{
+    text-align: left;
+    line-height: 180px;
+    position: absolute;
+}
+.cont0203zuo>p{
+    text-align: left;
+    top: 120px;
+    position: absolute;
+}
+.cont0203you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    background: url("../img/cont1.3.jpg");
+    float: left;
+}
+.cont0204{
+    width: 1349px;
+    height: 390px;
+    background: white;
+}
+.cont0204zuo{
+    width: 550px;
+    height: 390px;
+    margin: 50px 80px;
+    background: url("../img/cont1.4.jpg");
+    float: left;
+}
+.cont0204you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    position: relative;
+    float: left;
+}
+.cont0204you>h1{
+    text-align: left;
+    line-height: 200px;
+    position: absolute;
+}
+.cont0204you>h3{
+    text-align: left;
+    line-height: 280px;
+    position: absolute;
+}
+.cont0204you>p{
+    text-align: left;
+    top: 170px;
+    position: absolute;
+}
+.cont0205{
+    margin-top: 200px;
+    width: 1349px;
+    height: 390px;
+    background: lightgrey;
+}
+.cont0205zuo{
+    width: 550px;
+    height: 390px;
+    margin: 50px 80px;
+    position: relative;
+    float: left;
+}
+.cont0205zuo>h1{
+    text-align: left;
+    line-height: 100px;
+    position: absolute;
+}
+.cont0205zuo>h3{
+    text-align: left;
+    line-height: 180px;
+    position: absolute;
+}
+.cont0205zuo>p{
+    text-align: left;
+    top: 120px;
+    position: absolute;
+}
+.cont0205you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    background: url("../img/cont1.5.jpg");
+    float: left;
+}
+.cont0206{
+    width: 1349px;
+    height: 390px;
+    background: white;
+}
+.cont0206zuo{
+    width: 550px;
+    height: 390px;
+    margin: 50px 80px;
+    background: url("../img/cont1.6.jpg");
+    float: left;
+}
+.cont0206you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    position: relative;
+    float: left;
+}
+.cont0206you>h1{
+    text-align: left;
+    line-height: 200px;
+    position: absolute;
+}
+.cont0206you>h3{
+    text-align: left;
+    line-height: 280px;
+    position: absolute;
+}
+.cont0206you>p{
+    text-align: left;
+    top: 170px;
+    position: absolute;
+}
+.cont0207{
+    margin-top: 200px;
+    width: 1349px;
+    height: 390px;
+    background: lightgrey;
+}
+.cont0207zuo{
+    width: 550px;
+    height: 390px;
+    margin: 50px 80px;
+    position: relative;
+    float: left;
+}
+.cont0207zuo>h1{
+    text-align: left;
+    line-height: 100px;
+    position: absolute;
+}
+.cont0207zuo>h3{
+    text-align: left;
+    line-height: 180px;
+    position: absolute;
+}
+.cont0207zuo>p{
+    text-align: left;
+    top: 120px;
+    position: absolute;
+}
+.cont0207you{
+    width: 550px;
+    height: 390px;
+    margin-left: 49px;
+    background: url("../img/cont1.7.jpg");
+    float: left;
+}
+.cont03{
+    position: relative;
+    margin-top: 1300px;
+    width: 1349px;
+    height: 50px;
+}
+.cont03>h1{
+    position: absolute;
+    margin-left: 650px;
+}
+.cont04{
+    width: 1250px;
+    margin-left: 100px;
+    height: 300px;
+    overflow: hidden;
+
+}
+.cont04box{
+    width: 2160px;
+    height: 300px;
+    position: relative;
+    margin: 0 0;
+    animation: move01 7s linear infinite;
+}
+.cont0401{
+    margin-left: 80px;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.8.jpg");
+    float: left;
+}
+.cont0402{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.9.jpg");
+}
+.cont0403{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.10.jpg");
+}
+.cont0404{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.11.jpg");
+}
+.cont0405{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.12.jpg");
+}
+.cont0406{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.13.jpg");
+}
+.cont0407{
+    margin-left: 50px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: url("../img/cont1.14.jpg");
+}
+@keyframes move01 {
+    from{
+        left: 80px;
+    }
+    to{
+        left: -830px;
+    }
+}
+
